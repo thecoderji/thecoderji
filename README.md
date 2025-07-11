@@ -60,14 +60,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40" title="ChatGPT" />
 <img src="https://img.shields.io/badge/Google%20Gemini-2023-blue?logo=google&logoColor=white" alt="Gemini" />
 
-  <img src="https://seeklogo.com/images/G/grok-logo-66F4E38979-seeklogo.com.png" alt="grok" width="40" height="40" title="Grok" />
-  <img src="https://deepseek.com/favicon.ico" alt="deepseek" width="40" height="40" title="DeepSeek" />
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_Studio_Logo.png" alt="Google AI Studio" width="70" height="40" title="Google AI Studio" />
+ <img src="https://img.shields.io/badge/DeepSeek-AI-blueviolet?logo=openai&logoColor=white" alt="DeepSeek" />
+
+<img src="https://img.shields.io/badge/Grok-xAI-black?logo=x&logoColor=white" alt="Grok" />
+
+ <img src="https://img.shields.io/badge/Google%20AI%20Studio-Beta-yellow?logo=google&logoColor=black" alt="Google AI Studio" />
 
   <!-- Web / Backend -->
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="80" height="40"/>
   </a>
