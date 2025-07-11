@@ -58,7 +58,8 @@
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40" title="ChatGPT" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-google-gemini-11747657-9476105.png" alt="gemini" width="40" height="40" title="Gemini" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Google_Gemini_logo.svg" alt="gemini" width="40" height="40" title="Gemini AI">
+
   <img src="https://seeklogo.com/images/G/grok-logo-66F4E38979-seeklogo.com.png" alt="grok" width="40" height="40" title="Grok" />
   <img src="https://deepseek.com/favicon.ico" alt="deepseek" width="40" height="40" title="DeepSeek" />
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_Studio_Logo.png" alt="Google AI Studio" width="70" height="40" title="Google AI Studio" />
