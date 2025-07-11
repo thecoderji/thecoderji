@@ -43,9 +43,8 @@
   <a href="https://numpy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
   </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="40" height="40" />
-  </a>
+<img src="https://img.shields.io/badge/Matplotlib-Visualizations-orange?logo=python&logoColor=white" alt="Matplotlib" />
+
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="70" height="40" />
   </a>
@@ -67,7 +66,7 @@
  <img src="https://img.shields.io/badge/Google%20AI%20Studio-Beta-yellow?logo=google&logoColor=black" alt="Google AI Studio" />
 
   <!-- Web / Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
 
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="80" height="40"/>
