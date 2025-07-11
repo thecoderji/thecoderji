@@ -66,7 +66,7 @@
  <img src="https://img.shields.io/badge/Google%20AI%20Studio-Beta-yellow?logo=google&logoColor=black" alt="Google AI Studio" />
 
   <!-- Web / Backend -->
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask" width="40" height="40" />
 
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="80" height="40"/>
